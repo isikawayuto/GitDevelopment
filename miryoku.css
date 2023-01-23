@@ -1,0 +1,15 @@
+
+.text-profile{
+    line-height: 25px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.text{
+    background-color: #CAE5CD;
+}
+.a{
+    display: flex;
+}
+.left{
+    margin-left: auto;
+}
