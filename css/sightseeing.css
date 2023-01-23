@@ -40,7 +40,6 @@ header{
     vertical-align: middle;
 }
 #mozi{
-    margin: 10px;
     font-size: 30px;
 }
 .headerimg img{
@@ -72,4 +71,8 @@ header{
 #foo p{
     text-align: center;
     padding-top: 35px;
+}
+
+.iwa{
+    margin: 10px 5px;
 }
