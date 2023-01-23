@@ -1,0 +1,100 @@
+.center {
+    float: center;
+    text-align: center;
+    margin: 100px;
+    text-align: center;
+    padding-left: 120px;   
+}
+html{
+    height: 1000px;
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    display:flex;
+    vertical-align: middle;
+
+}
+.top img{
+    width: 75px;
+    height: 75px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.top h2{
+    margin-left: 600px;
+}
+.green{
+    margin: 0px;
+    padding: 0px;
+    background-color: #006214;
+    height: 100px;
+}
+.green h1{
+    vertical-align: middle;
+    display: inline-block;
+    margin: 20px;
+    color: white;
+}
+.green a{
+    color: white;
+}
+.green p{
+    text-align: center;
+    vertical-align: middle;
+}
+#mozi{
+    margin: 10px;
+    font-size: 30px;
+}
+.headerimg img{
+    display: block;
+	width: 100%;
+	height: 300px;
+}
+.headerimage {
+	margin-right: calc(50% - 50vw);
+	margin-left: calc(50% - 50vw);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body{
+    height: 500px;
+}
+.a{
+    display: flex;
+}
+.b{
+    margin: 50px;
+}
+
+.footerimage {
+	margin-right: calc(50% - 50vw);
+	margin-left: calc(50% - 50vw);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.footerimage img{
+    display: block;
+	width: 100%;
+	height: 300px;
+}
+
+.human {
+   float: right;
+   padding-right:350px;
+   padding-top:95px;
+}
+
+.juage img {
+    padding-left: 270px;
+    padding-top: 125px;
+}
+footer p{
+    text-emphasis: center;
+    padding-top: 35px;
+}
+
